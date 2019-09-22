@@ -12,4 +12,6 @@
 
 ##<u>CloudEvents</u>
 
+Outside the function code itself, applications written as serverless functions are tightly coupled to the cloud platform on which they're hosted. Although events are a common FaaS-triggering mechanism, and every cloud provider supports them in some form, the current proprietary specifications prevent interoperability across clouds. The [CloudEvents ](https://cloudevents.io/)specification is a burgeoning standard that has been accepted into the [CNCF Sandbox](https://www.cncf.io/sandbox-projects/). The standard is still in active development but several language bindings exist and Microsoft has announced first-class support in Azure. We're hoping other cloud providers will follow suit.
+
 [CloudEvents Primer](https://github.com/cloudevents/spec/blob/master/primer.md)
