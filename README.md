@@ -8,6 +8,8 @@
 
 [Baeldung Article on NATS implementation](https://www.baeldung.com/nats-java-client) -> [Source for the article](https://github.com/eugenp/tutorials/blob/master/libraries/src/main/java/com/baeldung/jnats/NatsClient.java)
 
+[A Spring Cloud Stream Binder for NATS](https://github.com/nats-io/spring-nats)
+
 [General Eventing in Spring Framework](https://www.baeldung.com/spring-events)
 
 <u>CloudEvents</u>
